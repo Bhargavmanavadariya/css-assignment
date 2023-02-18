@@ -1,0 +1,104 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 1336px;
+    margin: 0 auto;
+}
+
+.margin {
+    width: 30%;
+    margin: 0 auto;
+}
+
+.row {
+    display: flex;
+}
+
+.jcsb {
+    justify-content: space-between;
+}
+
+.align {
+    align-items: center;
+}
+
+.tac {
+    text-align: center;
+}
+
+.col-30 {
+    width: 30%;
+}
+
+
+.cart-task {
+    background-image: linear-gradient(360deg, rgba(0, 0, 0, 0.74), rgba(0, 0, 0, 0.758)), url(/psd/FITNESS\ GYM/img/sec-four/sec-four-bg-img.png);
+    background-size: cover;
+}
+
+.cart-task-cart-box {
+    background-color: rgba(0, 0, 0, 0.700);
+    margin: 30px 0;
+    padding: 20px;
+    height: 60vh;
+}
+
+.cart-task-cart-box h4 {
+    font-size: 17px;
+    color: #ffffff;
+    font-weight: 700;
+    padding: 30px 0 10px 0;
+}
+
+.cart-task-cart-box p {
+    font-size: 17px;
+    color: #ffffff;
+    font-weight: 400;
+    padding: 10px 0px;
+}
+
+.cart-task-cart-box h5 {
+    font-size: 15px;
+    color: #ffffff;
+    font-weight: 700;
+    padding: 10px 0 0 0;
+}
+
+.cart-task-cart-box-one {
+    background-color: rgba(0, 0, 0, 0.700);
+    margin: 30px 0;
+}
+
+.cart-task-cart-box-one h4 {
+    font-size: 17px;
+    color: #ffffff;
+    font-weight: 700;
+    padding: 80px 0 30px 0;
+}
+
+.cart-task-cart-box-one p {
+    font-size: 17px;
+    color: #ffffff;
+    font-weight: 400;
+    padding: 30px 90px;
+}
+
+.cart-task-cart-box-one h5 {
+    font-size: 15px;
+    color: #ffffff;
+    font-weight: 700;
+    padding: 30px 0 0 0;
+}
+
+.cart-task-cart-box-one h6 {
+    font-size: 15px;
+    color: #ffffff;
+    font-weight: 400;
+    padding: 0 0 100px 0;
+    margin: 0 0 100px 0;
+
+}
